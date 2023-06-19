@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 
 /** Programe that print out 'Programming is like building a multilingual puzzle'
