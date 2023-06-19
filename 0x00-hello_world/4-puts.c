@@ -1,8 +1,12 @@
 #include <stdio.h>
 
-/** Programe that print out 'Programming is like building a multilingual puzzle'
+/**
+ * main - Entry
+ *
  * using the puts function'
- * /
+ *
+ * Return: 0
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle\n");
