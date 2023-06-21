@@ -1,13 +1,19 @@
-#include <unistd.h>
-#include "holberton.h"
-
+#include "main.h"
 /**
- * print out putchar
+ * main - Entry
+ * Only using the function _putchar
  *
- * Return: On success 1.
- * 
+ * Return: 0
  */
-int _putchar(char b)
+int main(void)
 {
-	return (write(1, &b, 1));
+	_putchar("_");
+	_putchar("p");
+	_putchar("u");
+	_putchar("t");
+	_putchar("c");
+	_putchar("h");
+	_putchar("a");
+	_putchar("r");
+	return (0);
 }
