@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * print_times_table - function that print out n times table starting with 0 
- * 
+ * print_times_table - function that print out n times table starting with 0
+ *
  * @a: number prompt from the user
  */
 void print_times_table(int a)
