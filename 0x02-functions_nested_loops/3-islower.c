@@ -3,7 +3,9 @@
 /**
  *_islower - check if c is lower
  *
- *Return: 1 if c is lowercase 0 if it's not 
+ *c is the char that will be checked
+ *
+ *Return: 1 if c is lowercase 0 if it's not
  */
 
 int _islower(int c)
