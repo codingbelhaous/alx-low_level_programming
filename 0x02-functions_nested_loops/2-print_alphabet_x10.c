@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print alphabet 10 times - print out all the alphabet in lowercas
+ * print_alphabet_x10  - print out all the alphabet in lowercas
  *
  * Return: void
  */
