@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * times_table - function the numbers 
+ * times_table - function the numbers
  *
  * table repated 9 times, starting with 0
  *
