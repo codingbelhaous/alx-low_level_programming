@@ -9,7 +9,7 @@ int main(void)
 	unsigned long int i;
 	unsigned long int a = 1;
 	unsigned long int b = 2;
-	unsigned long int l = 100000000;
+	unsigned long int l = 10000000;
 	unsigned long int a1;
 	unsigned long int a2;
 	unsigned long int b1;
