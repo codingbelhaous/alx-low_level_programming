@@ -4,7 +4,7 @@
  *
  * @c : the character to be checked
  *
- * Return: Always 0.
+ * Return: 1 if c is upper and 0 if it's not.
  */
 
 int _isupper(int c)
