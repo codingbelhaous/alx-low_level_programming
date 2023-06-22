@@ -7,7 +7,7 @@
 int main(void)
 {
 	int a = 0;
-	long i = 1, j = 2, s = k;
+	long i = 1, j = 2, s = j;
 
 	while (j + i < 10000)
 	{
