@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - Print out the numbers
  *
  * Return: 0 (success)
  *
