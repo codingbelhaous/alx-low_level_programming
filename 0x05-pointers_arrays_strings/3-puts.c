@@ -8,12 +8,13 @@
  * Return: void
  */
 
-int _strlen(char *s)
+void _puts(char *str)
 {
 	int i = 0;
-	while(s[i])
+	
+	while(str[i])
 	{
-		_putchar(s[i]);
+		_putchar(str[i]);
 		i++;
 	}
 	_putchar('\n');       
