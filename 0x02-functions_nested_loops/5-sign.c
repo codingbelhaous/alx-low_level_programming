@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
- 
  * print_sign - function that prints out the sign of the number prompt
  *
  * @n: number to be checkd
