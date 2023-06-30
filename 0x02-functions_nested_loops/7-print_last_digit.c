@@ -9,5 +9,5 @@
 
 int print_last_digit(int n)
 {
-	return (n % 1000000);
+	return (n % 100);
 }
