@@ -5,23 +5,25 @@
  *
  * @a: pointer to tab of integer
  * @n: number
- *
- * Return: void
  */
 
 void reverse_array(int *a, int n)
 {
-	int i = 0, j, k, c;
+	int i = 0, t, k;
+	int c;
 
-	j = n - 1;
-	k = j / 2;
+	t = n - 1;
+	k = t / 2;
 
 	while (i <= k)
 	{
 		c = a[i];
-		a[i] = a[j];
-		a[j] = c;
+		a[i] = a[t];
+		a[t] = c;
 		i++;
-		j--;
+		t--;
 	}
-}
+} * Return: void
+ */
+
+
