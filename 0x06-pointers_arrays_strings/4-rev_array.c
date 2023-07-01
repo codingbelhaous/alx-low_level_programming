@@ -5,6 +5,8 @@
  *
  * @a: pointer to tab of integer
  * @n: number
+ *
+ * Return: void
  */
 
 void reverse_array(int *a, int n)
