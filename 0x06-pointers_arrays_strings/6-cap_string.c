@@ -5,7 +5,7 @@
  *
  * @c: string
  *
- * Return: String 
+ * Return: String
  */
 
 char *cap_string(char *c)
