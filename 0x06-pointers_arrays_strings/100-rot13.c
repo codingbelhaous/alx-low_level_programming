@@ -15,7 +15,7 @@ char *rot13(char *str)
 	int i, j;
 
 	i = 0;
-	do
+	while (*(str + i) != '\0')
 	{
 		for (j = 0; j <= 51; j++)
 		{
@@ -26,6 +26,6 @@ char *rot13(char *str)
 			}
 		}
 		i++;
-	} while (*(str + i) == '\0')
+	}
 	return (str);
 }
